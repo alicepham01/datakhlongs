@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Abstract"
 ---
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
@@ -7,6 +8,7 @@ layout: post
     .montserrat-light {
       font-family: 'Montserrat', sans-serif;
       font-weight: 300;
+      text-align: justify;
     }
   </style>
 </head>
