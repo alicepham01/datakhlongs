@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
-avatar: /logo.png
-email: ngzhio@gmail.com
+title: Khlong Saen Saep
+description: 
+author: Alice Pham
+avatar: /z6729939933864_f0165e5918db1e4c21c65b274cff85d2.jpg
+email: tampham.phamminh01@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -29,15 +29,16 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
+linkedin:
+  username: mamtinh.01
   card: summary
-logo: logo.png
+logo: z6729939933864_f0165e5918db1e4c21c65b274cff85d2.jpg
 social:
-  name: Shangzhi Huang
+  name: Alice Pham
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://www.linkedin.com/in/minhtam01/
+    - https://github.com/alicepham01
+    - https://minhtampham298.wixsite.com/aliceportfolio
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
+skin: midnight
