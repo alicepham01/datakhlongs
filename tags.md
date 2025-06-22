@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-type: tags
-title: Tags
-permalink: /tags/
+type: maps
+title: Maps
+permalink: /maps/
 ---
